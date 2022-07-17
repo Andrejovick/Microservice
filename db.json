@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "userId": 22,
+      "title": "sprava",
+      "body": "palacinky"
+    },
+    [
+      {
+        "id": 1,
+        "userId": 22,
+        "title": "sprava",
+        "body": "palacinky"
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "userId": 23,
+        "title": "obed",
+        "body": "burger"
+      }
+    ]
+  ]
+}
