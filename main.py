@@ -8,7 +8,7 @@ import json
 #             auth = HTTPBasicAuth('user', 'pass'))
 # print(response)
 
-co = str(input("Aku motodu potrebujete vyuzit? (get, delete, post alebo put) "))
+co = str(input("Aku metodu potrebujete vyuzit? (get, delete, post alebo put) "))
 
 if co == "get":
 
