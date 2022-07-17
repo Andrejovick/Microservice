@@ -1,6 +1,9 @@
-Requests
+Requests with python
 
-Using windows:
+Documentation:
+https://requests.readthedocs.io/en/latest/
+
+Windows install:
 ```CMD
 install requests
 ```
