@@ -27,13 +27,14 @@ npm install -g json-server
 
 Create a `db.json` file with some data
 
-Example>
+Example:
 ```json
 {
   "post": [
     { "id": 1, "title": "json-server", "body": "typicode", "userId": 1 }
   ],
 }
+
 
 Start JSON Server
 
