@@ -25,6 +25,12 @@ Install JSON Server
 npm install -g json-server
 ```
 
+Start JSON Server
+
+```bash
+json-server --watch db.json
+```
+
 Create a `db.json` file with some data
 
 Example:
@@ -34,10 +40,3 @@ Example:
     { "id": 1, "title": "json-server", "body": "typicode", "userId": 1 }
   ],
 }
-
-
-Start JSON Server
-
-```bash
-json-server --watch db.json
-```
